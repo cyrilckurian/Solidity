@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ERC721.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ERC721.sol": {
+			"keccak256": "0x6756854538058b5d6514f7403f4b2bb075b97f9b70f525ed16d9626c5802ac7a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c180dab55fe10625dc2ae9e0ad6b089cf1c7206b60e02944f1d71df2beb6b905",
+				"dweb:/ipfs/QmWwFK7JfCr8CGJH8Nw8oRTn9YVEWg5JZpknXgfPZtHAaq"
+			]
+		}
+	},
+	"version": 1
+}

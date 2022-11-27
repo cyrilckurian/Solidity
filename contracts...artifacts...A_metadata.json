@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "message",
+						"type": "string"
+					}
+				],
+				"name": "Log",
+				"type": "event"
+			},
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "bar",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "foo",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/19_events.sol": "A"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/19_events.sol": {
+			"keccak256": "0x08ecbd851383b8ac6cc1c09a48537e653b129f82f48449a8699fcc66fc38a309",
+			"urls": [
+				"bzz-raw://30df7d609f4edd654f9f3734a206d18a3f6a4d79629f63720261210ded49ab43",
+				"dweb:/ipfs/QmZdDpYXa9NCR8RTm5fzhjhbyspbDj4G3VBQaz2MReG1Bi"
+			]
+		}
+	},
+	"version": 1
+}

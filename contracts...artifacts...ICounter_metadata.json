@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "count",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "increment",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/20_interface.sol": "ICounter"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/20_interface.sol": {
+			"keccak256": "0xc0ae00406c9a3518d014c4f43548d52177363bb5463ee1bee9533777c2a3b921",
+			"license": "UNLICENSE",
+			"urls": [
+				"bzz-raw://d4a913b51cfe7cb051e2001496cf83be44001603db6c256a4c9ed38eb4b61d1f",
+				"dweb:/ipfs/QmZRxRRsatuxQX4AMNDp5gHTka7eaMRtK96EmxeZWmK9pA"
+			]
+		}
+	},
+	"version": 1
+}

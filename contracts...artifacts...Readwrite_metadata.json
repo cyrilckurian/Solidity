@@ -1,0 +1,102 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					},
+					{
+						"internalType": "bytes1",
+						"name": "",
+						"type": "bytes1"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_num",
+						"type": "uint256"
+					},
+					{
+						"internalType": "address",
+						"name": "_wall",
+						"type": "address"
+					},
+					{
+						"internalType": "bool",
+						"name": "_sta",
+						"type": "bool"
+					},
+					{
+						"internalType": "bytes1",
+						"name": "_sss",
+						"type": "bytes1"
+					}
+				],
+				"name": "set",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/5_Readwrite.sol": "Readwrite"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/5_Readwrite.sol": {
+			"keccak256": "0x59acddc33f6cbc2b36586881eac7b65e486a6d14daddbfa6751805d8bbfaa5f6",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://3c970b389da833a0e363e8fd5e25a6114fa6f7df3b42ace811c91f8d77b28a62",
+				"dweb:/ipfs/QmZqBC4U1GAtvVRxWikcxJN7xtqeZ95sAfbYgiZn1PhFVo"
+			]
+		}
+	},
+	"version": 1
+}

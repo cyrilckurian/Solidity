@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "loop",
+				"outputs": [],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/11_loops.sol": "Loop"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/11_loops.sol": {
+			"keccak256": "0x56739617d9049890d37747e8c025d3d93e3f04a51d4efa2824a5750a2b60cbeb",
+			"license": "UNLICENSE",
+			"urls": [
+				"bzz-raw://178985a868bc99c7eac3f3b878088a8b832497675b9672dea0f23b9177d28ad9",
+				"dweb:/ipfs/QmdqrnfNCT7hny6vHaQnetqopF3ErapjpKbKsFqkxcZWpU"
+			]
+		}
+	},
+	"version": 1
+}

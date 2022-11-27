@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/22_MyToken.sol": "CyrilToken"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/22_MyToken.sol": {
+			"keccak256": "0xff06f14e149e5adb821b00321b8cedb406b76cf5d0d09b7afcf3858cd11fbd8d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8c5e919e2d3631f1547bc50bfdb0d635b7a87d2d2bc3beedcba5903260bd6d0f",
+				"dweb:/ipfs/QmSuYZAWdozsyW6Ut57QCTRn85aoMEWw8CpTjgQCy53X9r"
+			]
+		}
+	},
+	"version": 1
+}
